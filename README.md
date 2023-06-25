@@ -3,7 +3,7 @@
 
 <h1 align="center"><img width=20% height=50% alt="GoSecure" src="https://github.com/ShantanuKasana17/GoSecure-master/GoSecure/blob/master/README-images/logo-1.png"></h1>
 
-<h1 align="center">🅶🅾🆂🅴🅲🆄🆁🅴 - Women Safety App</h1>
+<h1 align="center">🅶🅾🆂🅴🅲🆄🆁🅴 - Women  Safety App</h1>
 <!--[![All Contributors](https://img.shields.io/badge/all_contributors-04-orange.svg?style=flat-square)](#contributors-)-->
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
