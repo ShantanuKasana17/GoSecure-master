@@ -93,7 +93,7 @@ Feature | Images
 **Go Nirbhaya**
 Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="350">
 **Emergency contacts**
-Users are provided with various women emergency helplines on their fingertips | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/emer-con.png" width="230" height="350">
+Users are provided with various women emergency helplines on their fingertips | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/emer-con.png" width="230" height="350">
 **Safety Pin**
 The flagship feature with which user can set the security pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/safety-pin.png" width="230" height="350">
 **Scream Alert** 
