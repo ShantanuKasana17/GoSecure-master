@@ -89,24 +89,24 @@ Download APK : [here](https://drive.google.com/file/d/1wv_ILZ_1aM0QC3-V5RrMzVOiS
 Feature | Images
 ------------ | -------------
  **Dashboard**  
- It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/Screenshot%202023-02-08%20190914.png" width="230" height="350">
+ It is fast, easy to use, and incredibly convenient with a minimalistic UI! | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/Screenshot%202023-02-08%20190914.png" width="230" height="350">
 **Go Nirbhaya**
-Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="350">
+Sends journey alerts periodically with the loved ones! |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="350">
 **Emergency contacts**
 Users are provided with various women emergency helplines on their fingertips | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/emer-con.png" width="230" height="350">
 **Safety Pin**
-The flagship feature with which user can set the security pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/safety-pin.png" width="230" height="350">
+The flagship feature with which user can set the security pin which can be used to turn off the SOS and send info about false alert |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/safety-pin.png" width="230" height="350">
 **Scream Alert** 
-Detects human scream to send alerts to saved contacts!|<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="350">
+Detects human scream to send alerts to saved contacts!|<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/nir-scream.png" width="230" height="350">
 **LiveSafe**
-Finds and guides user to nearest police stations, hospitals and bus stations |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/live-safe.png" width="230" height="350">
+Finds and guides user to nearest police stations, hospitals and bus stations |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/live-safe.png" width="230" height="350">
 **Spy Cam Detector**
-Uses magnetometer sensors of the phone to detect any potencial active camera around! |<img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/spy-cam.png" width="230" height="350">
+Uses magnetometer sensors of the phone to detect any potencial active camera around! |<img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/spy-cam.png" width="230" height="350">
 **Articles**
-Various motivational articles for women | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/articles.png" width="230" height="350">
+Various motivational articles for women | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/articles.png" width="230" height="350">
 **Self defence**
-Self Defence techniques to empower women! | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/self-defense.png" width="230" height="350">
+Self Defence techniques to empower women! | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/self-defense.png" width="230" height="350">
 **Fake Call**
-Fake call generator to get out of suspectful situation | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/fake-call.png" width="230" height="350">
+Fake call generator to get out of suspectful situation | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/fake-call.png" width="230" height="350">
 **Shake Detector**
-Shake frequency detector to send alerts | <img src="https://github.com/Divijkatyal0406/GoSecure/blob/master/README-images/shake-detect.png" width="230" height="350">
+Shake frequency detector to send alerts | <img src="https://github.com/Shantanukasana17/GoSecure/blob/master/README-images/shake-detect.png" width="230" height="350">
